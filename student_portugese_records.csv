@@ -1,4 +1,4 @@
-student_id,failures,absences,G1,G3,school_id
+student_id,failures,absences,boy_grade,eoy_grade,school_id
 1,0,4,0,11,GP
 2,0,2,9,11,GP
 3,0,6,12,12,GP
